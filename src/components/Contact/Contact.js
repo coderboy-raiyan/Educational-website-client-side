@@ -68,6 +68,25 @@ const Contact = () => {
                   />
                 </Form.Group>
               </Col>
+              <Col xs={12} md={12} lg={12}>
+                <div className="form-check">
+                  <input
+                    className="form-check-input"
+                    type="checkbox"
+                    value=""
+                    id="flexCheckDefault"
+                  />
+                  <label className="form-check-label" for="flexCheckDefault">
+                    I agree to the{" "}
+                    <a href="*" className="text-primary">
+                      Terms {"&"} Conditions
+                    </a>
+                  </label>
+                </div>
+                <button className="btn btn-primary mt-4 fs-5 py-2 px-3">
+                  Send your message
+                </button>
+              </Col>
             </Row>
           </Col>
           <Col xs={12} md={5} lg={5}>
