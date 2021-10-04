@@ -6,11 +6,11 @@
 
 # 👉 **Three bullet points**
 
-### ✅ This is website for your education
+### ✅ This is website for your a education.
 
 ### ✅ You can find almost all the courses we have.
 
-### ✅ We are the best choice for you because you can find here core details about all courses they are very trained. And all the price are very low so that you can purchase easily and enjoy.
+### ✅ We are the best choice for you because you can find here core details about all courses the teachers and authors are very trained. And all the price are very low so that you can purchase easily and enjoy.
 
 <br/>
 
