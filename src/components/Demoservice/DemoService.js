@@ -15,6 +15,7 @@ const DemoService = () => {
     <section className="py-5 main-demo-service">
       <Container>
         <Row className="home-service g-4 my-4">
+          {/* demo title starts here */}
           <div className="home-service-header">
             <div className="home-service-title">
               <h1>Find The Right Online Course For You</h1>
@@ -23,15 +24,8 @@ const DemoService = () => {
                 help.
               </p>
             </div>
-            {/* <div className="filter-service">
-              <div className="filter-btns ">
-                <li>Art and Design</li>
-                <li>Trending</li>
-                <li>Popularity</li>
-              </div>
-            </div> */}
           </div>
-
+          {/* Demo courses starts here*/}
           {courses.slice(0, 4).map((course) => (
             <SingalService course={course} key={course.title} />
           ))}

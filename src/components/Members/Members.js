@@ -4,6 +4,7 @@ import "./Member.css";
 const Members = (props) => {
   const { author_pic, author, profession } = props.course;
   return (
+    // Singal Members for about us
     <Col xs={12} md={4} lg={4}>
       <Card className="p-3 shadow">
         <Card.Img

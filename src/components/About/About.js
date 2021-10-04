@@ -8,6 +8,7 @@ const About = () => {
   return (
     <section>
       <div className="about-hero py-5 text-center">
+        {/* About title starts here */}
         <Container>
           <Row className="py-5">
             <Col xs={12} md={12} lg={12}>
@@ -23,6 +24,7 @@ const About = () => {
           </Row>
         </Container>
       </div>
+      {/* Our about members starts here */}
       <div className="our-members my-5">
         <Container>
           <Row className="g-4">

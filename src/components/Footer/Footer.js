@@ -8,6 +8,7 @@ const Footer = () => {
     <footer className="pt-5 main-footer">
       <Container>
         <Row className="gx-4 py-5">
+          {/* Barnd footer starts here */}
           <Col xs={12} md={3} lg={3}>
             <div className="brand-inner">
               <Link to="/home">
@@ -39,6 +40,7 @@ const Footer = () => {
               </ul>
             </div>
           </Col>
+          {/* Company footer starts here */}
           <Col xs={12} md={3} lg={3}>
             <div className="company-inner ms-5">
               <h5>Company</h5>
@@ -67,6 +69,7 @@ const Footer = () => {
               </ul>
             </div>
           </Col>
+          {/* platform footer starts here */}
           <Col xs={12} md={3} lg={3}>
             <div className="company-inner">
               <h5>Platform</h5>
@@ -92,6 +95,7 @@ const Footer = () => {
               </ul>
             </div>
           </Col>
+          {/* Subscribe footer starts here*/}
           <Col xs={12} md={3} lg={3}>
             <div className="subs-inner">
               <h5>Subscribe</h5>
@@ -117,6 +121,7 @@ const Footer = () => {
             </div>
           </Col>
         </Row>
+        {/* Copyright footer starts here*/}
         <Row className="mt-4">
           <Col xs={12} md={12} lg={12}>
             <p className="copy-right text-center py-3">

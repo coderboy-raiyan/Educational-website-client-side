@@ -13,6 +13,7 @@ const Contact = () => {
 
       <Container>
         <Row className="py-5">
+          {/* Contact form starts here */}
           <Col xs={12} md={7} lg={7}>
             <div className="from-inner">
               <h1 className="contact-title">Get in Touch</h1>
@@ -89,6 +90,7 @@ const Contact = () => {
               </Col>
             </Row>
           </Col>
+          {/* Contact description starts here*/}
           <Col xs={12} md={5} lg={5}>
             <div className="contact-card w-75 m-auto">
               <Card className="border-0 shadow p-2 rounded">

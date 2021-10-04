@@ -27,17 +27,7 @@ const Services = () => {
 
   return (
     <section className="services">
-      {/* <section className="course-banner">
-        <Container>
-          <Row>
-            <Col xs={12} md={12} lg={12}>
-              <div className="hero-course">
-                <h1>Courses</h1>
-              </div>
-            </Col>
-          </Row>
-        </Container>
-      </section> */}
+      {/* Services hero section */}
       <AboutHero>
         <div className="hero-course">
           <h1>Courses</h1>
@@ -46,10 +36,11 @@ const Services = () => {
 
       <section className="all-courses my-5">
         <Container>
+          {/* Search bar starts here */}
           <Row className="g-4 py-5">
             <InputGroup className="mb-3">
               <FormControl
-                placeholder="ex. Fitness"
+                placeholder="Search here (ex. Fitness...)"
                 aria-label="Recipient's username"
                 aria-describedby="basic-addon2"
                 onChange={handleSearch}
@@ -62,6 +53,9 @@ const Services = () => {
                 <i className="bi bi-search"></i>
               </Button>
             </InputGroup>
+
+            {/* All courses  starts here*/}
+
             {search.map((course) => (
               <SingalService course={course} key={course.title} />
             ))}
