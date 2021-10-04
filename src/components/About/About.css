@@ -1,0 +1,13 @@
+.about-hero {
+  background: #6047ec;
+}
+
+.about-us-title h1 {
+  color: #fff;
+  font-size: 50px;
+}
+.about-us-title p {
+  color: #fff;
+  width: 40%;
+  margin: auto;
+}

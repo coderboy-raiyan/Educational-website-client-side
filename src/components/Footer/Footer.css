@@ -1,0 +1,39 @@
+.main-footer {
+  background: #0e1133;
+}
+ul {
+  padding-left: 0;
+}
+ul li a {
+  color: rgb(170, 169, 169);
+  line-height: 30px;
+}
+.main-footer h5 {
+  color: #fff;
+  text-align: start;
+}
+.brand-des {
+  color: rgb(170, 169, 169);
+  margin-top: 30px;
+}
+.brand-inner ul {
+  padding: 0;
+}
+.brand-inner li {
+  margin-right: 20px;
+}
+.brand-inner li a {
+  font-size: 18px;
+  color: #fff;
+}
+
+.subs-inner p {
+  color: rgb(170, 169, 169);
+}
+.copy-right {
+  color: rgb(170, 169, 169);
+  border-top: 1px solid rgb(102, 102, 102);
+}
+.subs-inner button {
+  cursor: pointer;
+}

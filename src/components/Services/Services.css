@@ -1,0 +1,19 @@
+.course-banner {
+  background: linear-gradient(#0000009e, #0000ff47),
+    url("https://themepure.net/template/educal/educal/assets/img/page-title/page-title.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 60vh;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.hero-course {
+  display: flex;
+  width: 100%;
+  height: 70vh;
+  align-items: center;
+}
+.hero-course h1 {
+  color: #fff;
+  font-size: 70px;
+}
