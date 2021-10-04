@@ -1,16 +1,16 @@
 # educal
 
-## Live Demo: [Live Site Link](https://night-of-the-stars.netlify.app/)
+## Live Demo: [Live Site Link](https://educal-edu.netlify.app/)
 
 <br/>
 
 # 👉 **Three bullet points**
 
-### ✅ This a website for collecting the cast and crew.
+### ✅ This is website for your education
 
-### ✅ Also a website for your favorite Stars.
+### ✅ You can find almost all the courses we have.
 
-### ✅ You can find them here and also we give you a knowledge about their monthly charge for per film.
+### ✅ We are the best choice for you because you can find here core details about all courses they are very trained. And all the price are very low so that you can purchase easily and enjoy.
 
 <br/>
 

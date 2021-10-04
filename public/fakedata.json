@@ -142,5 +142,41 @@
     "img": "https://img-c.udemycdn.com/course/240x135/1670314_0679_6.jpg",
     "author_pic": "https://img-c.udemycdn.com/user/75x75/50859122_9f14.jpg",
     "profession": "Medical Advisor"
+  },
+  {
+    "title": "Start Your Photography Business: A Photography Course",
+    "category": "Photography",
+    "lesson": 300,
+    "author": "Lana",
+    "rating": 4.8,
+    "reviews": 54,
+    "price": 60.99,
+    "img": "https://img-c.udemycdn.com/course/240x135/2400178_b478.jpg",
+    "author_pic": "https://img-c.udemycdn.com/user/75x75/372263_2bcf_3.jpg",
+    "profession": "Assistant Product designer"
+  },
+  {
+    "title": "Introduction to Finance, Accounting, Modeling and Valuation",
+    "category": "Accounting",
+    "lesson": 200,
+    "author": "Chris Moris",
+    "rating": 4.9,
+    "reviews": 80,
+    "price": 90.99,
+    "img": "https://img-c.udemycdn.com/course/240x135/888716_4225_8.jpg",
+    "author_pic": "https://img-c.udemycdn.com/user/75x75/71390_c14c_5.jpg",
+    "profession": "Marketing manager"
+  },
+  {
+    "title": "SINGING SIMPLIFIED #1: The Fast-Track to Singing Like a Pro",
+    "category": "Music",
+    "lesson": 300,
+    "author": "AR Khalid",
+    "rating": 4.3,
+    "reviews": 260,
+    "price": 300.99,
+    "img": "https://img-c.udemycdn.com/course/240x135/1516474_7722.jpg",
+    "author_pic": "https://img-c.udemycdn.com/user/75x75/33004532_5f6b_6.jpg",
+    "profession": "Music director"
   }
 ]
